@@ -15,4 +15,4 @@
 # Jones,		John,			jj@jones.edu	,						"Funding acquisition"
 #
 CSR_FIRST_NAME,	CSR_FAMILY_NAME,	CSR_EMAIL,							CSR_ORCID,					CSR_ROLE
-Emma,		Aronson,		xxx,								0000-0002-5018-2688
+Emma,		Aronson,		emma.aronson@ucr.edu,						0000-0002-5018-2688,				Investigation

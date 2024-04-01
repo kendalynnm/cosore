@@ -18,7 +18,8 @@
 # CSR_TIMESTAMP_END,	Timestamp
 #
 Database,		Dataset,	Computation,				Notes
+CSR_TAIR,		Tair,
 CSR_T5,			Tsoil
 CSR_SM5,		VWC,		VWC / 100
 CSR_FLUX_CH4,		CH4_flux, 	CH4_flux * 1000 / 60,			µmol/min to nmol/s
-CSR_TIMESTAMP_BEGIN,	Date,		"paste(Date, "12:00:00")"		assuming midday on date given
+CSR_TIMESTAMP_BEGIN,	Date,		"paste(Date, '12:00:00')",		assuming midday on date given
